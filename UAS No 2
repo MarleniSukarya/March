@@ -1,3 +1,4 @@
+
 # Ujian Akhir Semester 
 <br>Mata Kuliah  : Dasar Pemprograman
 <br> Nama  : Marleni Sukarya
@@ -9,13 +10,10 @@
 
 ## Source Code
 
-
 #include <iostream>
-#include <iomanip>
 using namespace std;
 int main(){
 	
-	system("Color B");
 	cout<<endl;
 	cout<<" Nama	: Marleni Sukarya"<<endl;
 	cout<<" NIM	: 1227050069"<<endl;
@@ -60,7 +58,8 @@ int main(){
     return 0;
 }
 
-```
+
+## Output
 
 
-## Outpu
+
