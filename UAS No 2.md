@@ -63,5 +63,7 @@ int main(){
 
 ## Output
 
+![ss bagi](https://user-images.githubusercontent.com/120997735/208384707-fa519125-d227-4c7a-ba56-b30f39730ffb.png)
+
 
 
