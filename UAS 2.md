@@ -7,6 +7,8 @@
 
 ## Deskripsi Umum
     2. PROGRAM ELEMEN MATRIKS YANG BISA DI BAGI 3,5 ATAU 7
+    		Matriks adalah sekumpulan bilangan yang disusun berdasarkan baris dan kolom, serta ditempatkan di dalam tanda kurung. Program Elemen Matriks yang bisa 
+	dibagi dengan 3, 5 atau 7 menggunakan operasi matematika pembagian. Program ini mengabungkan antara matematika dan teknologi.
 
 ## Source Code
 
