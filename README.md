@@ -8,8 +8,6 @@
     1. PROGRAM TRANSPOSE MATRIKS
             Pembuatan program Transpose Matriks menggunakan bahasa pemprograman C++ dimana ini merupakan Array. Program ini menggabungkan antara matematika dan 
        teknologi.
-       
-    2. Program Elemen Matriks dimana dapat dibagi dengan 3,5 atau 7
     
 ## Source Code
 
@@ -76,4 +74,6 @@ int main(void)
 
 
 ## Output
+	
+![SS transpose](https://user-images.githubusercontent.com/120997735/208379758-ab0bdfa1-1b70-46e0-bb63-43329631226b.png)
 
